@@ -1,0 +1,22 @@
+.c-img{
+    width: 100%;
+    margin-bottom: 10px;
+    max-height: 90px;
+}
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+.c-title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.c-left{
+    width: 80%;
+}
+.c-right{
+    margin-left: 20px;
+}
